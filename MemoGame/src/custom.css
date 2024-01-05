@@ -5,3 +5,10 @@
 .card:hover {
   cursor: pointer;
 }
+
+li {
+  padding: 10px;
+}
+.card {
+  list-style: none;
+}
